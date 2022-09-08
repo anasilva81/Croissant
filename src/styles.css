@@ -1,0 +1,35 @@
+body {
+  background: rgb(184, 184, 226);
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+  margin: 0;
+}
+
+.croissant-photo {
+  display: block;
+  border: 2px solid rgb(73, 18, 18);
+  border-radius: 5px;
+  margin: 20px 0;
+  max-width: 400px;
+}
+
+.links {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.links a {
+  color: rgb(35, 35, 85);
+  margin: 0 15px;
+}
+
+.links a:hover {
+  color: orangered;
+}
+
+.contact {
+  text-align: center;
+}
